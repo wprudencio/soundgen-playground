@@ -1,3 +1,7 @@
+# Soundgen Playground
+<img width="1408" alt="Screenshot 2025-06-08 at 08 26 00" src="https://github.com/user-attachments/assets/db5c3297-05a9-49da-b394-cc466c137067" />
+
+
 | Rank | Waveform                | Method/Function          | CPU Usage      | Notes                                                  |
 |------|-------------------------|--------------------------|----------------|--------------------------------------------------------|
 | 1    | Phasor                  | phasor(frequency)        | Very Low       | Linear ramp, minimal math                              |
